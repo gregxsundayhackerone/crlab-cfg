@@ -1,0 +1,6 @@
+id: demo-eval
+language: javascript
+rule:
+  pattern: eval($X)
+message: avoid eval
+severity: warning
