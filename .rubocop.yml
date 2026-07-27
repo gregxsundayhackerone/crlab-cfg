@@ -1,0 +1,2 @@
+require:
+  - ./cr_ext.rb

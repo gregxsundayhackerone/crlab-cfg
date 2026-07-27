@@ -1,0 +1,5 @@
+[sqlfluff]
+templater = jinja
+dialect = ansi
+[sqlfluff:templater:jinja]
+library_path = sqllib
